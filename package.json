@@ -1,0 +1,12 @@
+{
+    "name": "AppApiBDD",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "hedhili",
+    "contributors": [],
+    "dependencies": {
+        "request":"2.61.0",
+        "http":"*",
+        "couchbase":"*"
+    }
+}
